@@ -31,7 +31,7 @@ git clone --recurse-submodules https://github.com/hdwater/cpp-template.git
 cd cpp-template
 rm -rf .git
 git init
-./vcpkg/vcpkg-bootstrap.sh
+./vcpkg/bootstrap-vcpkg.sh
 ```
 
 ### Configure and build
