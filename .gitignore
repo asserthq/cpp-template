@@ -1,0 +1,8 @@
+build/
+install/
+vcpkg/
+CMakeUserPresets.json
+
+.vscode/
+.ccache/
+.vs/
