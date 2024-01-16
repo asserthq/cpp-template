@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "cmake-cpp template" << std::endl;
+    std::cout << "cpp-template (cmake + presets + vcpkg)" << std::endl;
     return 0;
 }
