@@ -27,7 +27,7 @@
 ### Set up
 
 ```sh
-git clone --recurse-submodules https://github.com/hdwater/cpp-template.git
+git clone --recurse-submodules https://github.com/asserthq/cpp-template.git
 cd cpp-template
 ./vcpkg/bootstrap-vcpkg.sh
 ```
